@@ -1,6 +1,6 @@
 # example for receving transation info for coins in upbit exchange with websocket with python
 # 2020/11/03 
-# read more detail : 
+# read more detail : https://money-expert.tistory.com/32
 
 import time
 import requests
